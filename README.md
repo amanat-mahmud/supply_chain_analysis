@@ -30,7 +30,6 @@ Enhance supply chain efficiency by optimizing inventory management. This involve
   - Inventory_stock_Data table (118,11)
 - **Key columns:** Sales per customer, Customer Segment, Order Status, Class, Shipping Mode, Current Stock, Order Profit Per Order, Order Item Quantity, Sales Per Customer, Order Item Discount, order-now
 - **Calculated columns:** stock_item_price, product_class, sales_compared_to_prev_year
-- [**Data set Link**]()
 - [**Data Model**](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/data%20model.png)
 
 ## 🔎 Key Findings

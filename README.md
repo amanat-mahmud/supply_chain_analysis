@@ -66,6 +66,9 @@ The detailed presentation slides for this project can be found [here](https://gi
 5. Data visualization.
 6. Importance of data quality.
 7. Data storytelling.
+8. Sharpened analytical and problem-solving abilities.
+9. Strengthened strategic planning and presentation skill.
+10. Enhanced communication skills.
 
 
 ## 💻 Installation and Usage

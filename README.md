@@ -19,8 +19,10 @@ The company faces challenges in optimizing inventory management, leading to over
 Enhance supply chain efficiency by optimizing inventory management. This involves identifying key products to stock, determining optimal reorder points, and ensuring timely fulfillment of customer orders. The goal is to reduce storage costs, prevent stockouts, and improve overall customer satisfaction.
 
 ## 🛠️ Tools Used
-- **Analytical & Visual:** Microsoft Excel
-- **Presentation:** Microsoft PowerPoint
+- **Analytical & Visual:**  Microsoft Excel\
+  <img width="96" height="96" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+- **Presentation:** Microsoft Power Point\
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
 
 ## 📅 Dataset Overview
 - **Data source:** Internet

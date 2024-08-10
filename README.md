@@ -57,7 +57,7 @@ Enhance supply chain efficiency by optimizing inventory management. This involve
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![ Supply Chain Analysis Presentation](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/cover.png)](https://www.linkedin.com/feed/update/urn:li:activity:7219172913705308160)
+[![ Supply Chain Analysis Presentation](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_dataanalysis-businessintelligence-datadrivendecisions-activity-7222566931113893888-HQeQ/)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/supply_chain_analysis/blob/main/slide.pdf)
